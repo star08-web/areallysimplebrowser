@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YEK8yNvr0+k4nZoIVZy04t9psTc645kW7ENp+VleBHjN0JisAcNIT0r3M43cKyxGhoVkvk4qubZEw0pxHNu1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\feder\\source\\repos\\areallysimplebrowser\\areallysimplebrowser\\areallysimplebrowser.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feder\\.nuget\\packages\\microsoft.web.webview2\\1.0.1264.42\\microsoft.web.webview2.1.0.1264.42.nupkg.sha512"
+  ],
+  "logs": []
+}

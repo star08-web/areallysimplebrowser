@@ -21,7 +21,8 @@ downloads, who has never downloaded something? unfortunately I was unable to int
 
 # #3 problem
 
-protocols, https is not interpreted so to open a website you will also have to write its protocol so https:// + site name
+~~protocols, https is not interpreted so to open a website you will also have to write its protocol so https:// + site name~~ 
+added in release 2
 
 
 # #4 problem

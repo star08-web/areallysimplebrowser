@@ -49,6 +49,10 @@
             "Microsoft.Web.WebView2": {
               "target": "Package",
               "version": "[1.0.1264.42, )"
+            },
+            "Microsoft.Web.WebView2.DevToolsProtocolExtension": {
+              "target": "Package",
+              "version": "[1.0.824, )"
             }
           },
           "imports": [

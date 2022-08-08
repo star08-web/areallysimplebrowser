@@ -25,3 +25,4 @@ C:\Users\feder\source\repos\areallysimplebrowser\areallysimplebrowser\obj\x64\Re
 C:\Users\feder\source\repos\areallysimplebrowser\areallysimplebrowser\obj\x64\Release\net5.0-windows\ref\areallysimplebrowser.dll
 C:\Users\feder\source\repos\areallysimplebrowser\areallysimplebrowser\obj\x64\Release\net5.0-windows\areallysimplebrowser.pdb
 C:\Users\feder\source\repos\areallysimplebrowser\areallysimplebrowser\obj\x64\Release\net5.0-windows\areallysimplebrowser.genruntimeconfig.cache
+C:\Users\feder\source\repos\areallysimplebrowser\areallysimplebrowser\bin\x64\Release\net5.0-windows\Microsoft.Web.WebView2.DevToolsProtocolExtension.dll
